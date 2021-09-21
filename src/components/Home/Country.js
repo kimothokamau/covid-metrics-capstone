@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
 import { date } from '../../api/covid';
+import Button from './Button';
 
 const Country = () => {
   const state = useSelector((state) => state.covid);
