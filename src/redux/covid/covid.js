@@ -26,6 +26,8 @@ const CovidReducer = (state = initialState, action) => {
       return { ...state, data: action.data, loading: false };
     case GET_DATA_ERR:
       return { ...state, error: action.error, loading: false };
+    case FILTER_COUNTRY:
+      return { ...state, country: action.payload };
     default:
       return state;
   }
