@@ -21,4 +21,4 @@ Filter.propTypes = ({
   handler: PropTypes.func,
 }).isRequired;
 
-export default Filter; 
+export default Filter;

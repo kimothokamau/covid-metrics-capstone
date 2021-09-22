@@ -4078,6 +4078,11 @@
     "whatwg-mimetype" "^2.3.0"
     "whatwg-url" "^8.0.0"
 
+"dayjs@^1.10.7":
+  "integrity" "sha512-P6twpd70BcPK34K26uJ1KT3wlhpuOAPoMwJzpsIWUxHZ7wpmbdZL/hQqBDfz7hGurYSa5PhzdhDHtt319hL3ig=="
+  "resolved" "https://registry.npmjs.org/dayjs/-/dayjs-1.10.7.tgz"
+  "version" "1.10.7"
+
 "debug@^2.2.0":
   "integrity" "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="
   "resolved" "https://registry.npmjs.org/debug/-/debug-2.6.9.tgz"
@@ -6568,7 +6573,12 @@
   dependencies:
     "is-docker" "^2.0.0"
 
-"isarray@^1.0.0", "isarray@~1.0.0", "isarray@1.0.0":
+"isarray@^1.0.0":
+  "integrity" "sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE="
+  "resolved" "https://registry.npmjs.org/isarray/-/isarray-1.0.0.tgz"
+  "version" "1.0.0"
+
+"isarray@~1.0.0":
   "integrity" "sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE="
   "resolved" "https://registry.npmjs.org/isarray/-/isarray-1.0.0.tgz"
   "version" "1.0.0"
@@ -6577,6 +6587,11 @@
   "integrity" "sha1-ihis/Kmo9Bd+Cav8YDiTmwXR7t8="
   "resolved" "https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz"
   "version" "0.0.1"
+
+"isarray@1.0.0":
+  "integrity" "sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE="
+  "resolved" "https://registry.npmjs.org/isarray/-/isarray-1.0.0.tgz"
+  "version" "1.0.0"
 
 "isexe@^2.0.0":
   "integrity" "sha1-6PvzdNxVb/iUehDcsFctYz8s+hA="

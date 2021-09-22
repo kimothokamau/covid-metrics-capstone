@@ -5,7 +5,7 @@ import {
 } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import Header from './heroarea';
-import getDetails from '../../redux/detailsslice';
+import getDetails from '../../redux/detailsSlice';
 
 const Details = ({ name }) => {
   const { url } = useRouteMatch();
@@ -79,4 +79,4 @@ Details.propTypes = ({
   name: PropTypes.string,
 }).isRequired;
 
-export default Details; 
+export default Details;

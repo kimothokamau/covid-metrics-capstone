@@ -17,4 +17,4 @@ BackButton.propTypes = ({
   title: PropTypes.string,
 }).isRequired;
 
-export default BackButton; 
+export default BackButton;

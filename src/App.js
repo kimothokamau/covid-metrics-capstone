@@ -6,8 +6,8 @@ import {
   Switch,
 } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
-import getCovid from './redux/covidslices';
-import GlobalInfo from './components/pages/homepage';
+import getCovid from './redux/covidSlice';
+import GlobalInfo from './components/pages/Home';
 import Details from './components/pages/countryInfo';
 
 const App = () => {

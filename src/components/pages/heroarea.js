@@ -16,4 +16,4 @@ Header.propTypes = ({
   backButton: PropTypes.string,
 }).isRequired;
 
-export default Header; 
+export default Header;
