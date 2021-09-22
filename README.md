@@ -4,6 +4,9 @@
 
 Single Page Application that fetch country data related to COVID-19 from the narrativa API and displays the metrics on a card per country.
 
+## Live demo
+[Link](https://reverent-ride-7b8fbf.netlify.app/)
+
 
 ![screenshot](./src/assets/screenshot.png)
 
