@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COVID-19 Metrics Webapp
 
-## Available Scripts
+Single Page Application that fetch country data related to COVID-19 from the narrativa API and displays the metrics on a card per country.
 
-In the project directory, you can run:
+## Live demo
+[Link](https://reverent-ride-7b8fbf.netlify.app/)
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![screenshot](./src/assets/screenshot.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+## Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- JavaScript/React
+- React Router
+- React-redux
+- Redux-logger
+- CSS
+- Bootstrap
+- Webpack
+- Babel
+- Jest
 
-### `yarn build`
+## Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Get the link of the repository: `https://github.com/kimothokamau/covid-metrics-capstone.git`
+- Clone it as `https://github.com/kimothokamau/covid-metrics-capstone.git` on a Terminal
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Run `npm install` on a Terminal to install the modules
+- Run `npm start` on a Terminal to start the server 
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `yarn eject`
+## Tests
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Run `npm test` on a Terminal to run the test suite
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Authors
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+👨‍💻 **Kevin Kamau**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- GitHub: [@kimothokamau](https://github.com/kimothokamau)
+- LinkedIn: [Kevin Kamau](https://www.linkedin.com/in/kevinkamauk/)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🤝 Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thanks to [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for allowing me to use his theme.
 
-### Code Splitting
+Contributions, issues, and feature requests are welcome on the [issues page](https://github.com/kimothokamau/covid-metrics-capstone/issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Show your support
 
-### Analyzing the Bundle Size
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Acknowledgments
 
-### Making a Progressive Web App
+- Microverse
+- React, Redux and React Router documentation
+- Friends that I made on Microverse
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📝 License
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
