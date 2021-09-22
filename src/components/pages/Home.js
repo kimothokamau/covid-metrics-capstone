@@ -4,8 +4,8 @@ import {
   useRouteMatch,
 } from 'react-router-dom';
 import { useSelector } from 'react-redux';
-import Header from './heroarea';
-import Filter from './filterinput';
+import Header from './Header';
+import Filter from './filterInput';
 
 function GlobalInfo() {
   const { url } = useRouteMatch();

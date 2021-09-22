@@ -1,10 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Space Travelers Hub
+# COVID-19 Metrics Webapp
 
-> Single Page Application that fetch data from SpaceX API and lists the rockets and missions.
+Single Page Application that fetch country data related to COVID-19 from the narrativa API and displays the metrics on a card per country.
 
-The objective of this exercise was to fetch the Rockets and Missions data, implement the reservation of Rockets and Missions and display them in the "My Profile" tab.
 
 ![screenshot](./src/assets/screenshot.png)
 
